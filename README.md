@@ -1,20 +1,25 @@
-<img src="https://avatars3.githubusercontent.com/u/57169971?s=460&u=0096c98af1d75c6bd224fa405420dd28119ca924&v=4" style="border-radius:'100%'" >
+
 
 <h2> Hey there! I'm Malay Srivastava.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Bachelor student at Jaypee University of Information Technology.
+- 💼 &nbsp; Web Developer at Axact Studios.
+- 🌱 &nbsp; Open to all Open Source Projects😋.
+
+
+<a href="https://github.com/malaysrivastava">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malaysrivastava&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaysrivastava&theme=buefy&layout=compact" />
+</a>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -36,11 +41,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malaysrivastava&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaysrivastava&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
