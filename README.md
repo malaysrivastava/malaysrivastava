@@ -1,4 +1,4 @@
-<img style="border-radius:100%" src="https://avatars3.githubusercontent.com/u/57169971?s=460&u=0096c98af1d75c6bd224fa405420dd28119ca924&v=4">
+<img src="https://avatars3.githubusercontent.com/u/57169971?s=460&u=0096c98af1d75c6bd224fa405420dd28119ca924&v=4" style="border-radius:'50%!important'" >
 
 <h2> Hey there! I'm Malay Srivastava.</h2>
 
