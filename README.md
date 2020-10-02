@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://avatars3.githubusercontent.com/u/57169971?s=460&u=0096c98af1d75c6bd224fa405420dd28119ca924&v=4">
 
 <h2> Hey there! I'm Malay Srivastava.</h2>
 
