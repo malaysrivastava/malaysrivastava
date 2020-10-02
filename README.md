@@ -1,4 +1,4 @@
-<img src="https://avatars3.githubusercontent.com/u/57169971?s=460&u=0096c98af1d75c6bd224fa405420dd28119ca924&v=4" style="border-radius:'50%!important'" >
+<img src="https://avatars3.githubusercontent.com/u/57169971?s=460&u=0096c98af1d75c6bd224fa405420dd28119ca924&v=4" style="border-radius:'100%'" >
 
 <h2> Hey there! I'm Malay Srivastava.</h2>
 
@@ -27,15 +27,13 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+ - 🖥 &nbsp;
+ 
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
 
@@ -49,9 +47,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/malay-srivastava-1ba73612b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:malaypreet2013@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/malay-srivastava-1ba73612b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Malay%20Srivastava-blue?style=flat-square&logo=linkedin"></a>
+<a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-malaysrivastava1714-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:malaypreet2013@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-malaypreet2013@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
