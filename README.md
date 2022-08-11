@@ -14,7 +14,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malaysrivastava&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaysrivastava&theme=buefy&layout=compact" />
 </a>
-
+ 
+ <div>
+  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
+</div>
+<br/>
+<br/>
 
  <h3> 🛠 &nbsp;Tech Stack</h3>
 <p align="center">
@@ -44,13 +49,14 @@
 
 
 
-<h2 align="center">
   <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+<h2 align="center">
 <a href="https://www.linkedin.com/in/malay-srivastava-1ba73612b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Malay%20Srivastava-white?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/malaysrivastava1714"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-malaysrivastava1714-white?style=flat-square&logo=instagram"></a>
 <a href="mailto:malaypreet2013@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-malaypreet2013@gmail.com-white?style=flat-square&logo=gmail"></a>
   
 
 </h2>
-
+<br/>
+<br/>
 ⭐️ From [malaysrivastava](https://github.com/malaysrivastava)
