@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Bachelor student at Jaypee University of Information Technology.
-- 💼 &nbsp; Web Developer at Axact Studios.
+- 💼 &nbsp; A full stack developer with >2yrs experience.
 - 🌱 &nbsp; Open to all Open Source Projects😋.
 <br/>
 
