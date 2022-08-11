@@ -50,9 +50,7 @@
 <a href="https://www.instagram.com/malaysrivastava1714"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-malaysrivastava1714-white?style=flat-square&logo=instagram"></a>
 <a href="mailto:malaypreet2013@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-malaypreet2013@gmail.com-white?style=flat-square&logo=gmail"></a>
   
-<div>
-  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
-</div>
+
 </h2>
 
 ⭐️ From [malaysrivastava](https://github.com/malaysrivastava)
