@@ -16,19 +16,30 @@
 </a>
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
+<p align="center">
+  <h3> 🛠 &nbsp;Tech Stack</h3>
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=ff0000" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" />&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=007afb" />
+  <br/>
+<!--   <img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>
+  <br/>
+</p>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <div>
