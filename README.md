@@ -41,10 +41,13 @@
   <br/>
 </p>
 <br/>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <div>
   <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 </div>
+<br></br>
+<br></br>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 <h2 align="center">
 <a href="https://www.linkedin.com/in/malay-srivastava-1ba73612b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Malay%20Srivastava-white?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/malaysrivastava1714"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-malaysrivastava1714-white?style=flat-square&logo=instagram"></a>
