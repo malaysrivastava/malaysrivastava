@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Bachelor student at Jaypee University of Information Technology.
-- 💼 &nbsp; A full stack developer with >2yrs experience.
+- 💼 &nbsp; Full stack developer with more than 2 yrs experience.
 - 🌱 &nbsp; Open to all Open Source Projects😋.
 <br/>
 
