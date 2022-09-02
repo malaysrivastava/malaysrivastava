@@ -1,7 +1,10 @@
 
 
 <h2> Hey there! I'm Malay Srivastava.</h2>
-https://komarev.com/ghpvc/?username=malaysrivastava&label=PROFILE+COUNTER
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=malaysrivastava&style=for-the-badge">
+</a>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
