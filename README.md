@@ -11,6 +11,7 @@
 <br/>
 
 <a href="https://github.com/malaysrivastava">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malaysrivastava&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaysrivastava&theme=buefy&layout=compact" />
 </a>
  
